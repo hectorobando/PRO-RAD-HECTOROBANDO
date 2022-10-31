@@ -1,0 +1,12 @@
+C:\Users\Hector Said Obando\Desktop\PRO-RAD-HECTOR\PRO-RAD-HECTOR\bin\Debug\PRO-RAD-HECTOR.exe.config
+C:\Users\Hector Said Obando\Desktop\PRO-RAD-HECTOR\PRO-RAD-HECTOR\bin\Debug\PRO-RAD-HECTOR.exe
+C:\Users\Hector Said Obando\Desktop\PRO-RAD-HECTOR\PRO-RAD-HECTOR\bin\Debug\PRO-RAD-HECTOR.pdb
+C:\Users\Hector Said Obando\Desktop\PRO-RAD-HECTOR\PRO-RAD-HECTOR\bin\Debug\PRO-RAD-HECTOR.xml
+C:\Users\Hector Said Obando\Desktop\PRO-RAD-HECTOR\PRO-RAD-HECTOR\obj\Debug\PRO-RAD-HECTOR.vbprojResolveAssemblyReference.cache
+C:\Users\Hector Said Obando\Desktop\PRO-RAD-HECTOR\PRO-RAD-HECTOR\obj\Debug\PRO_RAD_HECTOR.FrmLogin.resources
+C:\Users\Hector Said Obando\Desktop\PRO-RAD-HECTOR\PRO-RAD-HECTOR\obj\Debug\PRO_RAD_HECTOR.FrmMenuPrincipal.resources
+C:\Users\Hector Said Obando\Desktop\PRO-RAD-HECTOR\PRO-RAD-HECTOR\obj\Debug\PRO_RAD_HECTOR.Resources.resources
+C:\Users\Hector Said Obando\Desktop\PRO-RAD-HECTOR\PRO-RAD-HECTOR\obj\Debug\PRO-RAD-HECTOR.vbproj.GenerateResource.Cache
+C:\Users\Hector Said Obando\Desktop\PRO-RAD-HECTOR\PRO-RAD-HECTOR\obj\Debug\PRO-RAD-HECTOR.exe
+C:\Users\Hector Said Obando\Desktop\PRO-RAD-HECTOR\PRO-RAD-HECTOR\obj\Debug\PRO-RAD-HECTOR.xml
+C:\Users\Hector Said Obando\Desktop\PRO-RAD-HECTOR\PRO-RAD-HECTOR\obj\Debug\PRO-RAD-HECTOR.pdb
